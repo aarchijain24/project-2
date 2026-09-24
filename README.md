@@ -1,4 +1,4 @@
 # new project
 
 this project was created from local system.
-created by Aarchi Jain..
+created by Aarchi Jain.
